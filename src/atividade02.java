@@ -2,9 +2,6 @@ import java.util.Scanner;
 
 public class atividade02 {
 
-
-
-
         private static double saldo = 0.0;
 
         public static void main(String[] args) {
